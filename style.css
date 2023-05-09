@@ -20,7 +20,7 @@ body {
 .list{
     text-align: left;
     color: rgb(0, 0, 0);
-    size: 30px;
+    font-size: small;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
     
