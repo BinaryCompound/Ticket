@@ -24,6 +24,14 @@ body {
     margin-bottom: 20px;
 
 }
+.hdr{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-bottom: 20px;
+
+}
 
 .list {
     text-align: left;
