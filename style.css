@@ -1,6 +1,11 @@
 body {
     margin: 0;
     background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    /* Задаем межстрочный интервал */
+    padding: 20px;
+    /* Добавляем отступы вокруг текста */
 }
 
 .info {
@@ -10,19 +15,21 @@ body {
     text-align: left;
     margin-left: 8px;
 }
-.header{
+
+.header {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     size: 40px;
     color: rgb(0, 0, 0);
     text-align: left;
     margin-bottom: 20px;
-    
+
 }
-.list{
+
+.list {
     text-align: left;
     color: rgb(0, 0, 0);
     font-size: small;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
-    
+
+
 }
