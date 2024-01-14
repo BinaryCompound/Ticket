@@ -2,9 +2,9 @@ body {
     margin: 0;
     background-color: rgb(255, 255, 255);
     font-family: Arial, sans-serif;
-    line-height: 1.5;
+    line-height: 1;
     /* Задаем межстрочный интервал */
-    padding: 20px;
+    padding: 10px;
     /* Добавляем отступы вокруг текста */
 }
 
